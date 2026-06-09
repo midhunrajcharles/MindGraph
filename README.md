@@ -11,6 +11,10 @@
 
 ---
 
+## Repository
+
+- GitHub: https://github.com/midhunrajcharles/MindGraph.git
+
 ## Try It Live
 
 > Clone the repo, run the onboarding step once, then launch the Streamlit dashboard.
