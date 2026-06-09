@@ -165,3 +165,16 @@ data/
 *.csv
 pdf_downloads/
 data_old/
+
+# OS/editor local files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local environment files
+*.env
+!.env.template
+
+# Runtime logs
+*.log
+logs/
