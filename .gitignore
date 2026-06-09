@@ -178,3 +178,7 @@ Thumbs.db
 # Runtime logs
 *.log
 logs/
+
+# Temporary/local scratch files
+/test_notebook.ipynb
+/temp_scrape_documents.py
